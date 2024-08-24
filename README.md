@@ -1,6 +1,10 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-1.Respiratory-a storage locaion for project files  and their version history 2.Branch-a parrallel version of a project 3.Clone-creates a copy of the respiratory even its history 4.History- record of all commits made to the respiratory 5.Merge - proccess of intergrating changes from one branch to another.
+1.Respiratory-a storage locaion for project files  and their version history
+2.Branch-a parrallel version of a project 
+3.Clone-creates a copy of the respiratory even its history 
+4.History- record of all commits made to the respiratory
+5.Merge - proccess of intergrating changes from one branch to another.
 Github is popular as it is build on Git that is a powerful and widely used version control system. It collaborates with features as pull requests ,code reviews and issues.It also is user friendly as it provides an inituitive web interface that simplifies version control tasks.
 Version control maintains project itegrity by tracking changes, enabling a roll back to previous states and facilitates collaboration with clear records of modifications and contributions.
 
